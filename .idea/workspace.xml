@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="442cc7b6-062a-40ef-a9a2-a6828cba78ee" name="Changes" comment="">
+    <list default="true" id="442cc7b6-062a-40ef-a9a2-a6828cba78ee" name="Changes" comment="sshagent update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
@@ -94,8 +94,17 @@
       <workItem from="1677204184540" duration="2000" />
       <workItem from="1677204199340" duration="4084000" />
       <workItem from="1677212603972" duration="1840000" />
-      <workItem from="1677216142897" duration="1390000" />
+      <workItem from="1677216142897" duration="3022000" />
+      <workItem from="1677223959810" duration="672000" />
     </task>
+    <task id="LOCAL-00001" summary="sshagent update">
+      <created>1677217638396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677217638396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sshagent update" />
+    <option name="LAST_COMMIT_MESSAGE" value="sshagent update" />
   </component>
 </project>
